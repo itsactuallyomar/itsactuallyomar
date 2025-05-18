@@ -50,6 +50,5 @@ I’m open to local, remote, freelance, or relocation-based work.
 ## 📂 Featured Repositories
 
 - [writeups](https://github.com/itsactuallyomar/writeups): HTB, THM, CTF walkthroughs  
-- [tools](https://github.com/itsactuallyomar/tools): Custom/red team scripts & tools  
-- [notes](https://github.com/itsactuallyomar/notes): Study notes & cheatsheets  
+- [tools](https://github.com/itsactuallyomar/tools): Custom/red team scripts & tools 
 - [road-to-redteam](https://github.com/itsactuallyomar/road-to-cybersec): Weekly public learning log  
